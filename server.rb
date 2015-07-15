@@ -1,5 +1,5 @@
 require 'sinatra'
-require '../stock_ticker.rb'
+# require '../stock_ticker.rb'
 require 'rubygems'
 
 # get '/' do

@@ -14,3 +14,7 @@ require 'sinatra'
 # get "/sinatra" do
 # "Hello Sinatra"
 # end
+
+get '/ hello.txt' do
+
+end
